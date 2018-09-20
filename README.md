@@ -13,4 +13,4 @@ A simple implementation of an AVL Tree
 
 ## Credits
 
-- Guilherme
+- Guilherme Albuquerque
