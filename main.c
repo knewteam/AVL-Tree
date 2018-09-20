@@ -8,6 +8,7 @@ typedef struct Node
     struct Node_ *father;
 } node;
 
+
 node *insert(int info, node *tree) // insert in a tree
 {
 
