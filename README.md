@@ -13,4 +13,4 @@ A simple implementation of an AVL Tree
 
 ## Credits
 
-- Jonathan
+- Jonathan Santos
